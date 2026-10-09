@@ -1,0 +1,86 @@
+{
+  "id": "15917242-385f-4217-8c7a-a3b1943855ad",
+  "request": {
+    "url": "http://127.0.0.1:49810/checkbox-quiz",
+    "scenario": "generic-form",
+    "submit": true,
+    "maxSteps": 4,
+    "inputMode": "ai-guided"
+  },
+  "status": "passed",
+  "createdAt": "2026-09-30T08:51:08.057Z",
+  "updatedAt": "2026-09-30T08:51:19.952Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 8,
+      "action": "submit",
+      "submissionAuthorized": true
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/15917242-385f-4217-8c7a-a3b1943855ad/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:51:10.540Z"
+    },
+    {
+      "name": "1-2-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/15917242-385f-4217-8c7a-a3b1943855ad/artifacts/1-2-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:51:13.289Z"
+    },
+    {
+      "name": "1-2-filled.png",
+      "stage": "step-1-filled",
+      "url": "/v1/form-runs/15917242-385f-4217-8c7a-a3b1943855ad/artifacts/1-2-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:51:18.781Z"
+    },
+    {
+      "name": "99-confirmation.png",
+      "stage": "confirmation",
+      "url": "/v1/form-runs/15917242-385f-4217-8c7a-a3b1943855ad/artifacts/99-confirmation.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:51:19.043Z"
+    },
+    {
+      "name": "15917242-385f-4217-8c7a-a3b1943855ad-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/15917242-385f-4217-8c7a-a3b1943855ad/artifacts/15917242-385f-4217-8c7a-a3b1943855ad-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-30T08:51:19.952Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 2,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "startedAt": "2026-09-30T08:51:08.065Z",
+  "networkDiagnostics": [
+    {
+      "step": 1,
+      "action": "submit:Submit",
+      "method": "POST",
+      "endpoint": "http://127.0.0.1:49810/checkbox-quiz-submit",
+      "status": 200
+    }
+  ],
+  "confirmation": {
+    "matched": true,
+    "type": "default-text",
+    "value": "Thank you for your answers"
+  },
+  "completedAt": "2026-09-30T08:51:19.051Z"
+}

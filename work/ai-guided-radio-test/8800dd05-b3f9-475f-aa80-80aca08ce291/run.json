@@ -1,0 +1,70 @@
+{
+  "id": "8800dd05-b3f9-475f-aa80-80aca08ce291",
+  "request": {
+    "url": "http://127.0.0.1:55397/radio-gate",
+    "scenario": "generic-form",
+    "submit": true,
+    "maxSteps": 4,
+    "inputMode": "ai-guided"
+  },
+  "status": "passed",
+  "createdAt": "2026-09-29T10:55:56.279Z",
+  "updatedAt": "2026-09-29T10:56:13.732Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 10,
+      "action": "submit",
+      "submissionAuthorized": true
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/8800dd05-b3f9-475f-aa80-80aca08ce291/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T10:56:05.504Z"
+    },
+    {
+      "name": "1-1-filled.png",
+      "stage": "step-1-filled",
+      "url": "/v1/form-runs/8800dd05-b3f9-475f-aa80-80aca08ce291/artifacts/1-1-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T10:56:13.221Z"
+    },
+    {
+      "name": "99-confirmation.png",
+      "stage": "confirmation",
+      "url": "/v1/form-runs/8800dd05-b3f9-475f-aa80-80aca08ce291/artifacts/99-confirmation.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T10:56:13.323Z"
+    },
+    {
+      "name": "8800dd05-b3f9-475f-aa80-80aca08ce291-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/8800dd05-b3f9-475f-aa80-80aca08ce291/artifacts/8800dd05-b3f9-475f-aa80-80aca08ce291-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-29T10:56:13.732Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 1,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "startedAt": "2026-09-29T10:55:56.288Z",
+  "confirmation": {
+    "matched": true,
+    "type": "default-text",
+    "value": "Thank you for registering"
+  },
+  "completedAt": "2026-09-29T10:56:13.327Z"
+}

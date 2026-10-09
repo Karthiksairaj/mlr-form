@@ -1,0 +1,64 @@
+{
+  "id": "blank-confirmation-smoke",
+  "request": {
+    "url": "http://127.0.0.1:60570/blank-confirmation-form.html",
+    "scenario": "basic",
+    "submit": true,
+    "maxSteps": 2
+  },
+  "status": "inconclusive",
+  "createdAt": "2026-09-30T10:56:28.327Z",
+  "updatedAt": "2026-09-30T10:56:36.500Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 1,
+      "action": "submit:Submit",
+      "screenshot": "/v1/form-runs/blank-confirmation-smoke/artifacts/1-filled.png"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-filled.png",
+      "stage": "step-1-final-filled",
+      "url": "/v1/form-runs/blank-confirmation-smoke/artifacts/1-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T10:56:33.016Z"
+    },
+    {
+      "name": "1-destination.png",
+      "stage": "step-1-destination",
+      "url": "/v1/form-runs/blank-confirmation-smoke/artifacts/1-destination.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T10:56:36.163Z"
+    },
+    {
+      "name": "blank-confirmation-smoke-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/blank-confirmation-smoke/artifacts/blank-confirmation-smoke-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-30T10:56:36.500Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "startedAt": "2026-09-30T10:56:28.334Z",
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 1,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "completedAt": "2026-09-30T10:56:36.165Z",
+  "confirmation": {
+    "matched": false
+  },
+  "error": {
+    "code": "post_submit_confirmation_not_found",
+    "message": "The form was submitted, but no thank-you page, inline confirmation, or redirect was detected."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "765cc434-26ae-47b3-8076-6613b4965825",
+  "request": {
+    "url": "http://127.0.0.1:65109/middle-radio",
+    "scenario": "generic-form",
+    "submit": true,
+    "maxSteps": 4,
+    "inputMode": "ai-guided"
+  },
+  "status": "passed",
+  "createdAt": "2026-09-30T08:51:41.070Z",
+  "updatedAt": "2026-09-30T08:52:00.798Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 8,
+      "action": "submit",
+      "submissionAuthorized": true
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/765cc434-26ae-47b3-8076-6613b4965825/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:51:43.588Z"
+    },
+    {
+      "name": "1-2-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/765cc434-26ae-47b3-8076-6613b4965825/artifacts/1-2-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:51:51.668Z"
+    },
+    {
+      "name": "1-2-filled.png",
+      "stage": "step-1-filled",
+      "url": "/v1/form-runs/765cc434-26ae-47b3-8076-6613b4965825/artifacts/1-2-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:51:59.723Z"
+    },
+    {
+      "name": "99-confirmation.png",
+      "stage": "confirmation",
+      "url": "/v1/form-runs/765cc434-26ae-47b3-8076-6613b4965825/artifacts/99-confirmation.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:51:59.973Z"
+    },
+    {
+      "name": "765cc434-26ae-47b3-8076-6613b4965825-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/765cc434-26ae-47b3-8076-6613b4965825/artifacts/765cc434-26ae-47b3-8076-6613b4965825-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-30T08:52:00.798Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 1,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "startedAt": "2026-09-30T08:51:41.075Z",
+  "networkDiagnostics": [
+    {
+      "step": 1,
+      "action": "submit:Submit",
+      "method": "POST",
+      "endpoint": "http://127.0.0.1:65109/middle-submit",
+      "status": 200
+    }
+  ],
+  "confirmation": {
+    "matched": true,
+    "type": "default-text",
+    "value": "Thank you for registering"
+  },
+  "completedAt": "2026-09-30T08:51:59.976Z"
+}

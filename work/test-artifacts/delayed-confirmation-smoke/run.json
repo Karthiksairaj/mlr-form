@@ -1,0 +1,60 @@
+{
+  "id": "delayed-confirmation-smoke",
+  "request": {
+    "url": "http://127.0.0.1:50834/delayed-confirmation-form.html",
+    "scenario": "basic",
+    "submit": true,
+    "maxSteps": 2
+  },
+  "status": "passed",
+  "createdAt": "2026-09-30T10:54:37.238Z",
+  "updatedAt": "2026-09-30T10:54:44.923Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "started",
+      "fieldCount": 1
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-filled.png",
+      "stage": "step-1-final-filled",
+      "url": "/v1/form-runs/delayed-confirmation-smoke/artifacts/1-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T10:54:41.881Z"
+    },
+    {
+      "name": "99-confirmation.png",
+      "stage": "confirmation",
+      "url": "/v1/form-runs/delayed-confirmation-smoke/artifacts/99-confirmation.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T10:54:44.699Z"
+    },
+    {
+      "name": "delayed-confirmation-smoke-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/delayed-confirmation-smoke/artifacts/delayed-confirmation-smoke-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-30T10:54:44.923Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "startedAt": "2026-09-30T10:54:37.250Z",
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 1,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "confirmation": {
+    "matched": true,
+    "type": "default-text",
+    "value": "Congratulations, you are signed up for RINVOQ Complete"
+  },
+  "completedAt": "2026-09-30T10:54:44.701Z"
+}

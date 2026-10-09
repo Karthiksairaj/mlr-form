@@ -1,0 +1,40 @@
+export type InputMode = 'excel-steps' | 'automatic' | 'ai-guided';
+export type HumanField = { id: string; name?: string; label: string; question?: string; type: string; tag: string; required: boolean;
+  minLength?: number; maxLength?: number; min?: string; max?: string; pattern?: string;
+  options?: Array<{ value: string; label: string }> };
+export type ExpectedOutcome = { urlContains?: string; textContains?: string; selector?: string };
+export type RunSettings = {
+  url: string;
+  submit: boolean;
+  inputMode: InputMode;
+  expectedOutcome?: ExpectedOutcome;
+};
+export type ExcelPayload = { filename: string; base64: string };
+export type Artifact = { name: string; stage: string; url: string; contentType: 'image/png' | 'application/pdf' };
+export type Run = {
+  id: string;
+  status: 'queued' | 'running' | 'awaiting_input' | 'passed' | 'failed' | 'blocked' | 'inconclusive';
+  request: RunSettings;
+  currentStep: number;
+  inputRequest?: {
+    token: string;
+    step: number;
+    pageUrl: string;
+    downloadUrl: string;
+    expiresAt: string;
+    message: string;
+    kind?: 'fields' | 'action' | 'choice' | 'human-fields';
+    choiceType?: 'select' | 'radio' | 'checkbox';
+    choiceLabel?: string;
+    fields?: HumanField[];
+    actions?: Array<{ id: string; label: string; kind: 'next' | 'submit' }>;
+  };
+  steps: Array<{ number: number; status: 'started' | 'completed' | 'failed'; fieldCount: number; action?: string }>;
+  artifacts: Artifact[];
+  networkDiagnostics?: Array<{ step: number; action: string; method: string; endpoint: string; status?: number;
+    failure?: string; signals?: Record<string, boolean | number | string>; responseHints?: string[];
+    captchaTokenInBody?: 'present' | 'empty' | 'not_observed' }>;
+  error?: { code: string; message: string };
+  confirmation?: { matched: boolean; value?: string };
+};
+export type Health = { status: string; dataGenerator: { provider: string; model?: string } };

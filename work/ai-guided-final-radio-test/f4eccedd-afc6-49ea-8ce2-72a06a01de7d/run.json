@@ -1,0 +1,86 @@
+{
+  "id": "f4eccedd-afc6-49ea-8ce2-72a06a01de7d",
+  "request": {
+    "url": "http://127.0.0.1:55171/three-radios",
+    "scenario": "generic-form",
+    "submit": true,
+    "maxSteps": 4,
+    "inputMode": "ai-guided"
+  },
+  "status": "passed",
+  "createdAt": "2026-09-30T09:50:44.792Z",
+  "updatedAt": "2026-09-30T09:51:02.251Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 7,
+      "action": "submit",
+      "submissionAuthorized": true
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/f4eccedd-afc6-49ea-8ce2-72a06a01de7d/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T09:50:47.361Z"
+    },
+    {
+      "name": "1-2-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/f4eccedd-afc6-49ea-8ce2-72a06a01de7d/artifacts/1-2-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T09:50:53.025Z"
+    },
+    {
+      "name": "1-2-filled.png",
+      "stage": "step-1-filled",
+      "url": "/v1/form-runs/f4eccedd-afc6-49ea-8ce2-72a06a01de7d/artifacts/1-2-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T09:51:01.376Z"
+    },
+    {
+      "name": "99-confirmation.png",
+      "stage": "confirmation",
+      "url": "/v1/form-runs/f4eccedd-afc6-49ea-8ce2-72a06a01de7d/artifacts/99-confirmation.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T09:51:01.751Z"
+    },
+    {
+      "name": "f4eccedd-afc6-49ea-8ce2-72a06a01de7d-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/f4eccedd-afc6-49ea-8ce2-72a06a01de7d/artifacts/f4eccedd-afc6-49ea-8ce2-72a06a01de7d-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-30T09:51:02.251Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 2,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "startedAt": "2026-09-30T09:50:44.802Z",
+  "networkDiagnostics": [
+    {
+      "step": 1,
+      "action": "submit:Submit",
+      "method": "POST",
+      "endpoint": "http://127.0.0.1:55171/three-radios-submit",
+      "status": 200
+    }
+  ],
+  "confirmation": {
+    "matched": true,
+    "type": "default-text",
+    "value": "Thank you for your answers"
+  },
+  "completedAt": "2026-09-30T09:51:01.754Z"
+}

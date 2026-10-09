@@ -1,0 +1,69 @@
+{
+  "id": "browser-smoke",
+  "request": {
+    "url": "http://127.0.0.1:50834/demo-form.html",
+    "scenario": "hcp-registration",
+    "submit": true,
+    "maxSteps": 5,
+    "expectedOutcome": {
+      "textContains": "Thank you for registering"
+    }
+  },
+  "status": "passed",
+  "createdAt": "2026-09-30T10:54:12.302Z",
+  "updatedAt": "2026-09-30T10:54:37.230Z",
+  "currentStep": 2,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 3,
+      "action": "next:Continue"
+    },
+    {
+      "number": 2,
+      "status": "started",
+      "fieldCount": 3
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "2-filled.png",
+      "stage": "step-2-final-filled",
+      "url": "/v1/form-runs/browser-smoke/artifacts/2-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T10:54:36.689Z"
+    },
+    {
+      "name": "99-confirmation.png",
+      "stage": "confirmation",
+      "url": "/v1/form-runs/browser-smoke/artifacts/99-confirmation.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T10:54:36.797Z"
+    },
+    {
+      "name": "browser-smoke-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/browser-smoke/artifacts/browser-smoke-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-30T10:54:37.230Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "startedAt": "2026-09-30T10:54:12.309Z",
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 2,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "confirmation": {
+    "matched": true,
+    "type": "text",
+    "value": "Thank you for registering"
+  },
+  "completedAt": "2026-09-30T10:54:36.800Z"
+}

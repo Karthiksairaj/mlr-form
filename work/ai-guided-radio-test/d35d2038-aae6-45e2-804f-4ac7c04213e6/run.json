@@ -1,0 +1,92 @@
+{
+  "id": "d35d2038-aae6-45e2-804f-4ac7c04213e6",
+  "request": {
+    "url": "http://127.0.0.1:52230/radio-gate",
+    "scenario": "generic-form",
+    "submit": true,
+    "maxSteps": 4,
+    "inputMode": "ai-guided"
+  },
+  "status": "passed",
+  "createdAt": "2026-09-30T08:52:03.023Z",
+  "updatedAt": "2026-09-30T08:52:37.275Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 10,
+      "action": "submit",
+      "submissionAuthorized": true,
+      "screenshot": "/v1/form-runs/d35d2038-aae6-45e2-804f-4ac7c04213e6/artifacts/1-1-after-action.png"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/d35d2038-aae6-45e2-804f-4ac7c04213e6/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:52:12.394Z"
+    },
+    {
+      "name": "1-1-filled.png",
+      "stage": "step-1-filled",
+      "url": "/v1/form-runs/d35d2038-aae6-45e2-804f-4ac7c04213e6/artifacts/1-1-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:52:30.275Z"
+    },
+    {
+      "name": "1-1-after-action.png",
+      "stage": "step-1-after-action",
+      "url": "/v1/form-runs/d35d2038-aae6-45e2-804f-4ac7c04213e6/artifacts/1-1-after-action.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:52:32.217Z"
+    },
+    {
+      "name": "1-2-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/d35d2038-aae6-45e2-804f-4ac7c04213e6/artifacts/1-2-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:52:33.969Z"
+    },
+    {
+      "name": "1-2-filled.png",
+      "stage": "step-1-filled",
+      "url": "/v1/form-runs/d35d2038-aae6-45e2-804f-4ac7c04213e6/artifacts/1-2-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:52:35.913Z"
+    },
+    {
+      "name": "99-confirmation.png",
+      "stage": "confirmation",
+      "url": "/v1/form-runs/d35d2038-aae6-45e2-804f-4ac7c04213e6/artifacts/99-confirmation.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:52:36.084Z"
+    },
+    {
+      "name": "d35d2038-aae6-45e2-804f-4ac7c04213e6-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/d35d2038-aae6-45e2-804f-4ac7c04213e6/artifacts/d35d2038-aae6-45e2-804f-4ac7c04213e6-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-30T08:52:37.275Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 2,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "startedAt": "2026-09-30T08:52:03.033Z",
+  "confirmation": {
+    "matched": true,
+    "type": "default-text",
+    "value": "Thank you for registering"
+  },
+  "completedAt": "2026-09-30T08:52:36.089Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "7909a3b4-e200-4cd8-8d94-6c4f9a174042",
+  "request": {
+    "url": "http://127.0.0.1:54752/middle-radio",
+    "scenario": "generic-form",
+    "submit": true,
+    "maxSteps": 4,
+    "inputMode": "ai-guided"
+  },
+  "status": "passed",
+  "createdAt": "2026-09-29T11:23:21.595Z",
+  "updatedAt": "2026-09-29T11:23:35.580Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 5,
+      "action": "submit",
+      "submissionAuthorized": true
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/7909a3b4-e200-4cd8-8d94-6c4f9a174042/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T11:23:24.199Z"
+    },
+    {
+      "name": "1-2-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/7909a3b4-e200-4cd8-8d94-6c4f9a174042/artifacts/1-2-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T11:23:31.865Z"
+    },
+    {
+      "name": "1-2-filled.png",
+      "stage": "step-1-filled",
+      "url": "/v1/form-runs/7909a3b4-e200-4cd8-8d94-6c4f9a174042/artifacts/1-2-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T11:23:34.893Z"
+    },
+    {
+      "name": "99-confirmation.png",
+      "stage": "confirmation",
+      "url": "/v1/form-runs/7909a3b4-e200-4cd8-8d94-6c4f9a174042/artifacts/99-confirmation.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T11:23:35.025Z"
+    },
+    {
+      "name": "7909a3b4-e200-4cd8-8d94-6c4f9a174042-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/7909a3b4-e200-4cd8-8d94-6c4f9a174042/artifacts/7909a3b4-e200-4cd8-8d94-6c4f9a174042-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-29T11:23:35.580Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 1,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "startedAt": "2026-09-29T11:23:21.606Z",
+  "confirmation": {
+    "matched": true,
+    "type": "default-text",
+    "value": "Thank you for registering"
+  },
+  "completedAt": "2026-09-29T11:23:35.029Z"
+}

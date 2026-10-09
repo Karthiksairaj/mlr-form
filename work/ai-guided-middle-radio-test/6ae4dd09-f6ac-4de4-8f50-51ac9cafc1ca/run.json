@@ -1,0 +1,53 @@
+{
+  "id": "6ae4dd09-f6ac-4de4-8f50-51ac9cafc1ca",
+  "request": {
+    "url": "http://127.0.0.1:60813/middle-radio",
+    "scenario": "generic-form",
+    "submit": true,
+    "maxSteps": 4,
+    "inputMode": "ai-guided"
+  },
+  "status": "failed",
+  "createdAt": "2026-09-29T11:34:33.118Z",
+  "updatedAt": "2026-09-29T11:35:07.268Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "started",
+      "fieldCount": 6
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/6ae4dd09-f6ac-4de4-8f50-51ac9cafc1ca/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T11:34:35.600Z"
+    },
+    {
+      "name": "6ae4dd09-f6ac-4de4-8f50-51ac9cafc1ca-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/6ae4dd09-f6ac-4de4-8f50-51ac9cafc1ca/artifacts/6ae4dd09-f6ac-4de4-8f50-51ac9cafc1ca-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-29T11:35:07.268Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 1,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "startedAt": "2026-09-29T11:34:33.124Z",
+  "error": {
+    "code": "run_failed",
+    "message": "The server stopped. Start a new run to reopen the browser session."
+  },
+  "completedAt": "2026-09-29T11:35:07.043Z"
+}

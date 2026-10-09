@@ -1,0 +1,53 @@
+{
+  "id": "delayed-initial-form-smoke",
+  "request": {
+    "url": "http://127.0.0.1:51227/delayed-form.html",
+    "scenario": "basic",
+    "submit": false,
+    "maxSteps": 1,
+    "inputMode": "excel-steps"
+  },
+  "status": "failed",
+  "createdAt": "2026-09-25T12:55:06.991Z",
+  "updatedAt": "2026-09-25T12:55:14.597Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "started",
+      "fieldCount": 1
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-excel",
+      "url": "/v1/form-runs/delayed-initial-form-smoke/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-25T12:55:14.137Z"
+    },
+    {
+      "name": "delayed-initial-form-smoke-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/delayed-initial-form-smoke/artifacts/delayed-initial-form-smoke-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-25T12:55:14.597Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "startedAt": "2026-09-25T12:55:06.997Z",
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 0,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "error": {
+    "code": "run_failed",
+    "message": "The interactive run was cancelled. Start a new run when ready."
+  },
+  "completedAt": "2026-09-25T12:55:14.290Z"
+}

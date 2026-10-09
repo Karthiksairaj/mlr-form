@@ -1,0 +1,47 @@
+{
+  "id": "f94e2179-1062-468d-9167-fa81bc79403c",
+  "request": {
+    "url": "https://rinvoq99.p.cwcm-admp.com/sign-up",
+    "scenario": "generic-form",
+    "submit": false,
+    "maxSteps": 1,
+    "inputMode": "excel-steps"
+  },
+  "status": "inconclusive",
+  "createdAt": "2026-09-28T11:38:42.475Z",
+  "updatedAt": "2026-09-28T11:41:18.001Z",
+  "currentStep": 0,
+  "formDetected": false,
+  "steps": [],
+  "artifacts": [
+    {
+      "name": "1-no-fields.png",
+      "stage": "step-1-no-fields",
+      "url": "/v1/form-runs/f94e2179-1062-468d-9167-fa81bc79403c/artifacts/1-no-fields.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-28T11:41:17.040Z"
+    },
+    {
+      "name": "f94e2179-1062-468d-9167-fa81bc79403c-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/f94e2179-1062-468d-9167-fa81bc79403c/artifacts/f94e2179-1062-468d-9167-fa81bc79403c-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-28T11:41:18.001Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "startedAt": "2026-09-28T11:38:42.486Z",
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 0,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "completedAt": "2026-09-28T11:41:17.054Z",
+  "error": {
+    "code": "no_form_or_confirmation",
+    "message": "The next screen had no editable form, visible CAPTCHA challenge, or detectable confirmation. See 1-no-fields.png."
+  }
+}

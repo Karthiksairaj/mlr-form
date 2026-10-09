@@ -1,0 +1,9 @@
+{
+  "fixture": "Captured RINVOQ HTML; scripts removed, network blocked, AEM hidden branches styled locally. This is not a live loading benchmark.",
+  "controls": 846,
+  "firstMs": 89,
+  "secondMs": 114,
+  "fields": 19,
+  "repeatFields": 19,
+  "conditionFound": true
+}

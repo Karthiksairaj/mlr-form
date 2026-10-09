@@ -1,0 +1,96 @@
+{
+  "id": "nested-branch-smoke",
+  "request": {
+    "url": "http://127.0.0.1:57497/nested-branch-form.html",
+    "scenario": "basic",
+    "submit": false,
+    "maxSteps": 5
+  },
+  "status": "inconclusive",
+  "createdAt": "2026-09-24T12:49:47.806Z",
+  "updatedAt": "2026-09-24T12:51:29.719Z",
+  "currentStep": 4,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 1,
+      "action": "branch:Eczema > Yes:submit-not-authorized",
+      "screenshot": "/v1/form-runs/nested-branch-smoke/artifacts/leaf-001-eczema__yes-1-filled.png"
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "fieldCount": 1,
+      "action": "branch:Eczema > No:submit-not-authorized",
+      "screenshot": "/v1/form-runs/nested-branch-smoke/artifacts/leaf-002-eczema__no-1-filled.png"
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "fieldCount": 1,
+      "action": "branch:Arthritis > Yes:submit-not-authorized",
+      "screenshot": "/v1/form-runs/nested-branch-smoke/artifacts/leaf-003-arthritis__yes-1-filled.png"
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "fieldCount": 1,
+      "action": "branch:Arthritis > No:submit-not-authorized",
+      "screenshot": "/v1/form-runs/nested-branch-smoke/artifacts/leaf-004-arthritis__no-1-filled.png"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "leaf-001-eczema__yes-1-filled.png",
+      "stage": "branch:Eczema > Yes:final-filled",
+      "url": "/v1/form-runs/nested-branch-smoke/artifacts/leaf-001-eczema__yes-1-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-24T12:50:19.415Z"
+    },
+    {
+      "name": "leaf-002-eczema__no-1-filled.png",
+      "stage": "branch:Eczema > No:final-filled",
+      "url": "/v1/form-runs/nested-branch-smoke/artifacts/leaf-002-eczema__no-1-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-24T12:50:40.146Z"
+    },
+    {
+      "name": "leaf-003-arthritis__yes-1-filled.png",
+      "stage": "branch:Arthritis > Yes:final-filled",
+      "url": "/v1/form-runs/nested-branch-smoke/artifacts/leaf-003-arthritis__yes-1-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-24T12:51:08.681Z"
+    },
+    {
+      "name": "leaf-004-arthritis__no-1-filled.png",
+      "stage": "branch:Arthritis > No:final-filled",
+      "url": "/v1/form-runs/nested-branch-smoke/artifacts/leaf-004-arthritis__no-1-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-24T12:51:28.478Z"
+    },
+    {
+      "name": "nested-branch-smoke-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/nested-branch-smoke/artifacts/nested-branch-smoke-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-24T12:51:29.719Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "startedAt": "2026-09-24T12:49:47.817Z",
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 4,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "completedAt": "2026-09-24T12:51:28.487Z",
+  "error": {
+    "code": "choice_branches_captured",
+    "message": "Captured 4 leaf forms across 6 discovered choices."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "17eb833c-15be-4626-a970-fbca4037fe54",
+  "request": {
+    "url": "http://127.0.0.1:52273/checkbox-quiz",
+    "scenario": "generic-form",
+    "submit": true,
+    "maxSteps": 4,
+    "inputMode": "ai-guided"
+  },
+  "status": "failed",
+  "createdAt": "2026-09-30T08:45:59.436Z",
+  "updatedAt": "2026-09-30T08:46:30.059Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "started",
+      "fieldCount": 6
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/17eb833c-15be-4626-a970-fbca4037fe54/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:46:02.051Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 1,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "startedAt": "2026-09-30T08:45:59.444Z",
+  "completedAt": "2026-09-30T08:46:30.059Z",
+  "error": {
+    "code": "run_failed",
+    "message": "page.waitForTimeout: Target page, context or browser has been closed"
+  }
+}

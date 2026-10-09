@@ -1,0 +1,70 @@
+{
+  "id": "guided-delayed-confirmation-smoke",
+  "request": {
+    "url": "http://127.0.0.1:51831/delayed-confirmation-form.html",
+    "scenario": "generic-form",
+    "submit": true,
+    "maxSteps": 2,
+    "inputMode": "ai-guided"
+  },
+  "status": "passed",
+  "createdAt": "2026-09-30T10:57:55.388Z",
+  "updatedAt": "2026-09-30T10:58:03.437Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 1,
+      "action": "submit",
+      "submissionAuthorized": true
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/guided-delayed-confirmation-smoke/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T10:57:59.014Z"
+    },
+    {
+      "name": "1-1-filled.png",
+      "stage": "step-1-filled",
+      "url": "/v1/form-runs/guided-delayed-confirmation-smoke/artifacts/1-1-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T10:58:00.246Z"
+    },
+    {
+      "name": "99-confirmation.png",
+      "stage": "confirmation",
+      "url": "/v1/form-runs/guided-delayed-confirmation-smoke/artifacts/99-confirmation.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T10:58:03.079Z"
+    },
+    {
+      "name": "guided-delayed-confirmation-smoke-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/guided-delayed-confirmation-smoke/artifacts/guided-delayed-confirmation-smoke-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-30T10:58:03.437Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "startedAt": "2026-09-30T10:57:55.394Z",
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 1,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "confirmation": {
+    "matched": true,
+    "type": "default-text",
+    "value": "Congratulations, you are signed up for RINVOQ Complete"
+  },
+  "completedAt": "2026-09-30T10:58:03.082Z"
+}

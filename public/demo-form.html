@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head><meta charset="utf-8"><title>Demo registration form</title></head>
+  <body>
+    <main>
+      <h1>Demo HCP registration</h1>
+      <form id="demo">
+        <section id="step-1">
+          <label for="firstName">First name</label><input id="firstName" name="firstName" autocomplete="given-name" maxlength="30" required>
+          <label for="lastName">Last name</label><input id="lastName" name="lastName" autocomplete="family-name" maxlength="30" required>
+          <label for="email">Professional email</label><input id="email" name="email" type="email" autocomplete="email" required>
+          <button type="button" id="continue">Continue</button>
+        </section>
+        <section id="step-2" hidden>
+          <label for="state">State</label>
+          <select id="state" name="state" required disabled><option value="">Choose</option><option>New York</option><option>New Jersey</option></select>
+          <label for="zip">ZIP code</label><input id="zip" name="zip" inputmode="numeric" pattern="[0-9]{5}" required disabled>
+          <label><input id="terms" name="terms" type="checkbox" required disabled> I agree to the test terms</label>
+          <button type="submit" disabled>Register</button>
+        </section>
+      </form>
+      <section id="confirmation" hidden><h2>Thank you for registering</h2><p>Your test submission was received.</p></section>
+    </main>
+    <script>
+      const form = document.querySelector('#demo');
+      document.querySelector('#continue').addEventListener('click', () => {
+        const firstStepFields = [...document.querySelectorAll('#step-1 input')];
+        if (!firstStepFields.every(field => field.reportValidity())) return;
+        document.querySelector('#step-1').hidden = true;
+        document.querySelector('#step-2').hidden = false;
+        document.querySelectorAll('#step-2 [disabled]').forEach(control => control.disabled = false);
+      });
+      form.addEventListener('submit', event => {
+        event.preventDefault();
+        if (!form.reportValidity()) return;
+        form.hidden = true;
+        document.querySelector('#confirmation').hidden = false;
+        history.pushState({}, '', '/demo-form.html?submitted=true');
+      });
+    </script>
+  </body>
+</html>

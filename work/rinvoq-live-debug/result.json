@@ -1,0 +1,49 @@
+{
+  "testedAt": "2026-09-30T12:22:35.927Z",
+  "url": "https://rinvoq99.p.cwcm-admp.com/sign-up1",
+  "branch": "Atopic dermatitis > prescribed > adult patient > no insurance",
+  "attempts": [
+    {
+      "status": 502,
+      "contentType": "application/problem+json",
+      "length": 435
+    },
+    {
+      "status": 502,
+      "contentType": "application/problem+json",
+      "length": 435
+    }
+  ],
+  "response": {
+    "title": "Internal Server Error",
+    "status": 502,
+    "detail": "com.adobe.aem.forms.af.rest.exception.ExternalSubmitException: {\"errorList\":[{\"59001\":\"Please use your credentials to login\"}]}"
+  },
+  "checkedFields": [
+    {
+      "name": "YourDateOfBirthAD",
+      "value": "01/01/1985",
+      "ariaInvalid": "false"
+    },
+    {
+      "name": "YourPhoneNumberAD",
+      "value": "202-555-0147",
+      "ariaInvalid": "false"
+    },
+    {
+      "name": "zipcodeADY",
+      "value": "10001",
+      "ariaInvalid": "false"
+    },
+    {
+      "name": "mobilePhoneNumbertextAD",
+      "value": "202-555-0147",
+      "ariaInvalid": "false"
+    },
+    {
+      "name": "selectPrimaryPhoneCheckBoxAD",
+      "value": "true",
+      "ariaInvalid": "false"
+    }
+  ]
+}

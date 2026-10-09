@@ -1,0 +1,10 @@
+{
+  "id": "c7769aec-2b46-4760-a9e7-e76efa0bafcc",
+  "url": "https://rinvoq99.p.cwcm-admp.com/sign-up",
+  "startedAt": "2026-09-28T12:23:06.638Z",
+  "finalRunError": {
+    "code": "no_form_or_confirmation",
+    "message": "The next screen had no editable form, visible CAPTCHA challenge, or detectable confirmation. See 1-no-fields.png."
+  },
+  "events": []
+}

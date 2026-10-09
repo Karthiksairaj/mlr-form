@@ -1,0 +1,14 @@
+node_modules/
+.npm-cache/
+dist/
+.env
+.env.local
+.env.*.local
+work/artifacts/
+work/npm-cache/
+work/pw-browsers/
+work/playwright-browsers/
+work/excel-upload-test/
+work/react-ui-qa/
+playwright-report/
+test-results/

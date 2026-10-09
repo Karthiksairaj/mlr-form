@@ -1,0 +1,125 @@
+{
+  "id": "dynamic-frame-smoke",
+  "request": {
+    "url": "http://127.0.0.1:57497/dynamic-form.html",
+    "scenario": "basic",
+    "submit": true,
+    "maxSteps": 5,
+    "expectedOutcome": {
+      "textContains": "Thank you from iframe"
+    }
+  },
+  "status": "inconclusive",
+  "createdAt": "2026-09-24T12:48:02.529Z",
+  "updatedAt": "2026-09-24T12:49:14.591Z",
+  "currentStep": 2,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 3,
+      "action": "branch:Eczema:submit:Finish",
+      "screenshot": "/v1/form-runs/dynamic-frame-smoke/artifacts/leaf-001-eczema-1-filled.png"
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "fieldCount": 3,
+      "action": "branch:Arthritis:submit:Finish",
+      "screenshot": "/v1/form-runs/dynamic-frame-smoke/artifacts/leaf-002-arthritis-1-filled.png"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "leaf-001-eczema-1-filled.png",
+      "stage": "branch:Eczema:final-filled",
+      "url": "/v1/form-runs/dynamic-frame-smoke/artifacts/leaf-001-eczema-1-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-24T12:48:39.534Z"
+    },
+    {
+      "name": "leaf-001-eczema-destination.png",
+      "stage": "branch:Eczema:destination",
+      "url": "/v1/form-runs/dynamic-frame-smoke/artifacts/leaf-001-eczema-destination.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-24T12:48:39.716Z"
+    },
+    {
+      "name": "leaf-002-arthritis-1-filled.png",
+      "stage": "branch:Arthritis:final-filled",
+      "url": "/v1/form-runs/dynamic-frame-smoke/artifacts/leaf-002-arthritis-1-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-24T12:49:13.835Z"
+    },
+    {
+      "name": "leaf-002-arthritis-destination.png",
+      "stage": "branch:Arthritis:destination",
+      "url": "/v1/form-runs/dynamic-frame-smoke/artifacts/leaf-002-arthritis-destination.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-24T12:49:13.988Z"
+    },
+    {
+      "name": "dynamic-frame-smoke-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/dynamic-frame-smoke/artifacts/dynamic-frame-smoke-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-24T12:49:14.591Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "startedAt": "2026-09-24T12:48:02.536Z",
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 2,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "networkDiagnostics": [
+    {
+      "step": 1,
+      "action": "branch:Eczema:submit:Finish",
+      "method": "POST",
+      "endpoint": "http://127.0.0.1:57497/af/submit/branch-test",
+      "status": 200,
+      "captchaTokenInBody": "present",
+      "signals": {
+        "success": true
+      }
+    },
+    {
+      "step": 2,
+      "action": "branch:Arthritis:submit:Finish",
+      "method": "POST",
+      "endpoint": "http://127.0.0.1:57497/af/submit/branch-test",
+      "status": 200,
+      "captchaTokenInBody": "present",
+      "signals": {
+        "success": true
+      }
+    }
+  ],
+  "branchOutcomes": [
+    {
+      "path": "Eczema",
+      "matched": true,
+      "type": "text",
+      "value": "Thank you from iframe",
+      "screenshot": "/v1/form-runs/dynamic-frame-smoke/artifacts/leaf-001-eczema-destination.png"
+    },
+    {
+      "path": "Arthritis",
+      "matched": true,
+      "type": "text",
+      "value": "Thank you from iframe",
+      "screenshot": "/v1/form-runs/dynamic-frame-smoke/artifacts/leaf-002-arthritis-destination.png"
+    }
+  ],
+  "completedAt": "2026-09-24T12:49:13.996Z",
+  "error": {
+    "code": "choice_branches_captured",
+    "message": "Captured 2 leaf forms across 2 discovered choices."
+  }
+}

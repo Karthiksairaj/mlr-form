@@ -1,0 +1,142 @@
+{
+  "id": "c92f4797-06e9-4647-a2a7-6adc12233e76",
+  "request": {
+    "url": "http://127.0.0.1:60190/guided-ai",
+    "scenario": "generic-form",
+    "submit": true,
+    "maxSteps": 5,
+    "inputMode": "ai-guided"
+  },
+  "status": "passed",
+  "createdAt": "2026-09-29T10:24:10.674Z",
+  "updatedAt": "2026-09-29T10:24:36.900Z",
+  "currentStep": 2,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 5,
+      "action": "submit",
+      "submissionAuthorized": true
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "fieldCount": 1,
+      "action": "next",
+      "screenshot": "/v1/form-runs/c92f4797-06e9-4647-a2a7-6adc12233e76/artifacts/2-3-after-action.png"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/c92f4797-06e9-4647-a2a7-6adc12233e76/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T10:24:13.153Z"
+    },
+    {
+      "name": "1-2-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/c92f4797-06e9-4647-a2a7-6adc12233e76/artifacts/1-2-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T10:24:20.969Z"
+    },
+    {
+      "name": "1-2-filled.png",
+      "stage": "step-1-filled",
+      "url": "/v1/form-runs/c92f4797-06e9-4647-a2a7-6adc12233e76/artifacts/1-2-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T10:24:24.033Z"
+    },
+    {
+      "name": "2-3-input.png",
+      "stage": "step-2-awaiting-input",
+      "url": "/v1/form-runs/c92f4797-06e9-4647-a2a7-6adc12233e76/artifacts/2-3-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T10:24:26.498Z"
+    },
+    {
+      "name": "2-3-filled.png",
+      "stage": "step-2-filled",
+      "url": "/v1/form-runs/c92f4797-06e9-4647-a2a7-6adc12233e76/artifacts/2-3-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T10:24:28.991Z"
+    },
+    {
+      "name": "2-3-after-action.png",
+      "stage": "step-2-after-action",
+      "url": "/v1/form-runs/c92f4797-06e9-4647-a2a7-6adc12233e76/artifacts/2-3-after-action.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T10:24:30.723Z"
+    },
+    {
+      "name": "2-4-input.png",
+      "stage": "step-2-awaiting-input",
+      "url": "/v1/form-runs/c92f4797-06e9-4647-a2a7-6adc12233e76/artifacts/2-4-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T10:24:32.356Z"
+    },
+    {
+      "name": "2-4-filled.png",
+      "stage": "step-2-filled",
+      "url": "/v1/form-runs/c92f4797-06e9-4647-a2a7-6adc12233e76/artifacts/2-4-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T10:24:35.522Z"
+    },
+    {
+      "name": "99-confirmation.png",
+      "stage": "confirmation",
+      "url": "/v1/form-runs/c92f4797-06e9-4647-a2a7-6adc12233e76/artifacts/99-confirmation.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T10:24:35.887Z"
+    },
+    {
+      "name": "c92f4797-06e9-4647-a2a7-6adc12233e76-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/c92f4797-06e9-4647-a2a7-6adc12233e76/artifacts/c92f4797-06e9-4647-a2a7-6adc12233e76-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-29T10:24:36.900Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 1,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "startedAt": "2026-09-29T10:24:10.679Z",
+  "networkDiagnostics": [
+    {
+      "step": 1,
+      "action": "submit:Send code",
+      "method": "POST",
+      "endpoint": "http://127.0.0.1:60190/capture-ai",
+      "status": 200
+    },
+    {
+      "step": 2,
+      "action": "next:Verify",
+      "method": "POST",
+      "endpoint": "http://127.0.0.1:60190/verify-ai",
+      "status": 400
+    },
+    {
+      "step": 2,
+      "action": "next:Verify",
+      "method": "POST",
+      "endpoint": "http://127.0.0.1:60190/verify-ai",
+      "status": 200
+    }
+  ],
+  "confirmation": {
+    "matched": true,
+    "type": "default-text",
+    "value": "Thank you for registering"
+  },
+  "completedAt": "2026-09-29T10:24:35.890Z"
+}

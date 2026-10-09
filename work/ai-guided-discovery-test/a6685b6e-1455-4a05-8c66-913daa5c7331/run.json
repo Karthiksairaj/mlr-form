@@ -1,0 +1,93 @@
+{
+  "id": "a6685b6e-1455-4a05-8c66-913daa5c7331",
+  "request": {
+    "url": "http://127.0.0.1:56566/unknown-branch",
+    "scenario": "generic-form",
+    "submit": true,
+    "maxSteps": 4,
+    "inputMode": "ai-guided"
+  },
+  "status": "passed",
+  "createdAt": "2026-09-29T11:46:01.785Z",
+  "updatedAt": "2026-09-29T11:46:17.937Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 4,
+      "action": "submit",
+      "submissionAuthorized": true
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/a6685b6e-1455-4a05-8c66-913daa5c7331/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T11:46:04.311Z"
+    },
+    {
+      "name": "1-2-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/a6685b6e-1455-4a05-8c66-913daa5c7331/artifacts/1-2-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T11:46:08.448Z"
+    },
+    {
+      "name": "1-3-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/a6685b6e-1455-4a05-8c66-913daa5c7331/artifacts/1-3-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T11:46:15.160Z"
+    },
+    {
+      "name": "1-3-filled.png",
+      "stage": "step-1-filled",
+      "url": "/v1/form-runs/a6685b6e-1455-4a05-8c66-913daa5c7331/artifacts/1-3-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T11:46:16.876Z"
+    },
+    {
+      "name": "99-confirmation.png",
+      "stage": "confirmation",
+      "url": "/v1/form-runs/a6685b6e-1455-4a05-8c66-913daa5c7331/artifacts/99-confirmation.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T11:46:17.263Z"
+    },
+    {
+      "name": "a6685b6e-1455-4a05-8c66-913daa5c7331-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/a6685b6e-1455-4a05-8c66-913daa5c7331/artifacts/a6685b6e-1455-4a05-8c66-913daa5c7331-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-29T11:46:17.937Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 2,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "startedAt": "2026-09-29T11:46:01.797Z",
+  "networkDiagnostics": [
+    {
+      "step": 1,
+      "action": "submit:Submit",
+      "method": "POST",
+      "endpoint": "http://127.0.0.1:56566/unknown-submit",
+      "status": 200
+    }
+  ],
+  "confirmation": {
+    "matched": true,
+    "type": "default-text",
+    "value": "Thank you for registering"
+  },
+  "completedAt": "2026-09-29T11:46:17.267Z"
+}

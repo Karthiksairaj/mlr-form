@@ -1,0 +1,60 @@
+{
+  "id": "login-frame-smoke",
+  "request": {
+    "url": "http://127.0.0.1:57497/login-then-frame.html",
+    "scenario": "basic",
+    "submit": false,
+    "maxSteps": 5
+  },
+  "status": "inconclusive",
+  "createdAt": "2026-09-24T12:49:14.598Z",
+  "updatedAt": "2026-09-24T12:49:31.140Z",
+  "currentStep": 2,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 1,
+      "action": "next:Continue"
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "fieldCount": 2,
+      "action": "submit-not-authorized",
+      "screenshot": "/v1/form-runs/login-frame-smoke/artifacts/2-filled.png"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "2-filled.png",
+      "stage": "step-2-final-filled",
+      "url": "/v1/form-runs/login-frame-smoke/artifacts/2-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-24T12:49:30.979Z"
+    },
+    {
+      "name": "login-frame-smoke-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/login-frame-smoke/artifacts/login-frame-smoke-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-24T12:49:31.140Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "startedAt": "2026-09-24T12:49:14.602Z",
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 2,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "completedAt": "2026-09-24T12:49:30.982Z",
+  "error": {
+    "code": "submit_not_authorized",
+    "message": "The form was filled but submission was not authorized."
+  }
+}

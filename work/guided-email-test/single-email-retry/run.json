@@ -1,0 +1,92 @@
+{
+  "id": "single-email-retry",
+  "request": {
+    "url": "http://127.0.0.1:64506/form",
+    "scenario": "generic-form",
+    "inputMode": "ai-guided",
+    "submit": true,
+    "maxSteps": 3
+  },
+  "status": "passed",
+  "createdAt": "2026-09-30T12:26:08.487Z",
+  "updatedAt": "2026-09-30T12:26:16.626Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 2,
+      "action": "submit",
+      "submissionAuthorized": true,
+      "screenshot": "/v1/form-runs/single-email-retry/artifacts/1-1-after-action.png"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/single-email-retry/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T12:26:10.783Z"
+    },
+    {
+      "name": "1-1-filled.png",
+      "stage": "step-1-filled",
+      "url": "/v1/form-runs/single-email-retry/artifacts/1-1-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T12:26:12.127Z"
+    },
+    {
+      "name": "1-1-after-action.png",
+      "stage": "step-1-after-action",
+      "url": "/v1/form-runs/single-email-retry/artifacts/1-1-after-action.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T12:26:13.325Z"
+    },
+    {
+      "name": "1-2-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/single-email-retry/artifacts/1-2-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T12:26:14.434Z"
+    },
+    {
+      "name": "1-2-filled.png",
+      "stage": "step-1-filled",
+      "url": "/v1/form-runs/single-email-retry/artifacts/1-2-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T12:26:15.669Z"
+    },
+    {
+      "name": "99-confirmation.png",
+      "stage": "confirmation",
+      "url": "/v1/form-runs/single-email-retry/artifacts/99-confirmation.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T12:26:15.783Z"
+    },
+    {
+      "name": "single-email-retry-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/single-email-retry/artifacts/single-email-retry-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-30T12:26:16.626Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "startedAt": "2026-09-30T12:26:08.499Z",
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 2,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "confirmation": {
+    "matched": true,
+    "type": "default-text",
+    "value": "Thank you for registering"
+  },
+  "completedAt": "2026-09-30T12:26:15.787Z"
+}

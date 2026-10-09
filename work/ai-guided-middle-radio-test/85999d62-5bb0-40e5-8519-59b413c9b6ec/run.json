@@ -1,0 +1,60 @@
+{
+  "id": "85999d62-5bb0-40e5-8519-59b413c9b6ec",
+  "request": {
+    "url": "http://127.0.0.1:55248/middle-radio",
+    "scenario": "generic-form",
+    "submit": true,
+    "maxSteps": 4,
+    "inputMode": "ai-guided"
+  },
+  "status": "failed",
+  "createdAt": "2026-09-29T11:37:26.419Z",
+  "updatedAt": "2026-09-29T11:38:00.832Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "started",
+      "fieldCount": 8
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/85999d62-5bb0-40e5-8519-59b413c9b6ec/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T11:37:28.919Z"
+    },
+    {
+      "name": "1-2-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/85999d62-5bb0-40e5-8519-59b413c9b6ec/artifacts/1-2-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-29T11:37:36.798Z"
+    },
+    {
+      "name": "85999d62-5bb0-40e5-8519-59b413c9b6ec-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/85999d62-5bb0-40e5-8519-59b413c9b6ec/artifacts/85999d62-5bb0-40e5-8519-59b413c9b6ec-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-29T11:38:00.832Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 1,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "startedAt": "2026-09-29T11:37:26.428Z",
+  "error": {
+    "code": "run_failed",
+    "message": "The server stopped. Start a new run to reopen the browser session."
+  },
+  "completedAt": "2026-09-29T11:38:00.484Z"
+}

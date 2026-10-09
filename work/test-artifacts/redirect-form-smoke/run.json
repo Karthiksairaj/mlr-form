@@ -1,0 +1,77 @@
+{
+  "id": "redirect-form-smoke",
+  "request": {
+    "url": "http://127.0.0.1:50834/redirect-first-form.html",
+    "scenario": "basic",
+    "submit": true,
+    "maxSteps": 5,
+    "expectedOutcome": {
+      "textContains": "Thank you for requesting a card"
+    }
+  },
+  "status": "passed",
+  "createdAt": "2026-09-30T10:54:54.042Z",
+  "updatedAt": "2026-09-30T10:55:09.391Z",
+  "currentStep": 2,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "completed",
+      "fieldCount": 1,
+      "action": "submit:Get New Card",
+      "screenshot": "/v1/form-runs/redirect-form-smoke/artifacts/1-filled.png"
+    },
+    {
+      "number": 2,
+      "status": "started",
+      "fieldCount": 1
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-filled.png",
+      "stage": "step-1-final-filled",
+      "url": "/v1/form-runs/redirect-form-smoke/artifacts/1-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T10:55:02.082Z"
+    },
+    {
+      "name": "2-filled.png",
+      "stage": "step-2-final-filled",
+      "url": "/v1/form-runs/redirect-form-smoke/artifacts/2-filled.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T10:55:08.932Z"
+    },
+    {
+      "name": "99-confirmation.png",
+      "stage": "confirmation",
+      "url": "/v1/form-runs/redirect-form-smoke/artifacts/99-confirmation.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T10:55:09.048Z"
+    },
+    {
+      "name": "redirect-form-smoke-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/redirect-form-smoke/artifacts/redirect-form-smoke-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-30T10:55:09.391Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "startedAt": "2026-09-30T10:54:54.048Z",
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 2,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "confirmation": {
+    "matched": true,
+    "type": "text",
+    "value": "Thank you for requesting a card"
+  },
+  "completedAt": "2026-09-30T10:55:09.050Z"
+}

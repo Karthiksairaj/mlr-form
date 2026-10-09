@@ -1,0 +1,53 @@
+{
+  "id": "74752fc6-d774-41a9-a219-dfff88c0156c",
+  "request": {
+    "url": "http://127.0.0.1:58929/checkbox-quiz",
+    "scenario": "generic-form",
+    "submit": true,
+    "maxSteps": 4,
+    "inputMode": "ai-guided"
+  },
+  "status": "failed",
+  "createdAt": "2026-09-30T08:47:55.316Z",
+  "updatedAt": "2026-09-30T08:47:59.800Z",
+  "currentStep": 1,
+  "formDetected": true,
+  "steps": [
+    {
+      "number": 1,
+      "status": "started",
+      "fieldCount": 6
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "1-1-input.png",
+      "stage": "step-1-awaiting-input",
+      "url": "/v1/form-runs/74752fc6-d774-41a9-a219-dfff88c0156c/artifacts/1-1-input.png",
+      "contentType": "image/png",
+      "createdAt": "2026-09-30T08:47:57.854Z"
+    },
+    {
+      "name": "74752fc6-d774-41a9-a219-dfff88c0156c-form-report.pdf",
+      "stage": "pdf-report",
+      "url": "/v1/form-runs/74752fc6-d774-41a9-a219-dfff88c0156c/artifacts/74752fc6-d774-41a9-a219-dfff88c0156c-form-report.pdf",
+      "contentType": "application/pdf",
+      "createdAt": "2026-09-30T08:47:59.800Z"
+    }
+  ],
+  "captcha": {
+    "detected": false
+  },
+  "dataGeneration": {
+    "provider": "local",
+    "requests": 1,
+    "validationRetries": 0,
+    "fallbackCount": 0
+  },
+  "startedAt": "2026-09-30T08:47:55.323Z",
+  "error": {
+    "code": "run_failed",
+    "message": "The server stopped. Start a new run to reopen the browser session."
+  },
+  "completedAt": "2026-09-30T08:47:59.484Z"
+}

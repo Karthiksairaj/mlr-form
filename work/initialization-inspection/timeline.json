@@ -1,0 +1,1753 @@
+[
+  {
+    "ms": 1052,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/etc.clientlibs/common-elements/v1/components/content/forms-embed/clientlib-component.min.5c7ab11a82bf534579355e41d9777bc1.js"
+  },
+  {
+    "ms": 1310,
+    "kind": "state",
+    "state": "loading:undefined:0"
+  },
+  {
+    "ms": 3249,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/etc.clientlibs/common-elements/v1/components/content/forms-embed/clientlib-component.min.5c7ab11a82bf534579355e41d9777bc1.js",
+    "status": 200
+  },
+  {
+    "ms": 3278,
+    "kind": "domcontentloaded"
+  },
+  {
+    "ms": 3324,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/select-your-indication-form.html.html"
+  },
+  {
+    "ms": 3324,
+    "kind": "state",
+    "state": "interactive:object:0"
+  },
+  {
+    "ms": 3797,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/select-your-indication-form.html.html",
+    "status": 200
+  },
+  {
+    "ms": 4104,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/clientlib-dependencies.min.css"
+  },
+  {
+    "ms": 4105,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/clientlib-base.min.css"
+  },
+  {
+    "ms": 4105,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/custom-forms-components-runtime-all.min.css"
+  },
+  {
+    "ms": 4105,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/clientlib-site.min.css"
+  },
+  {
+    "ms": 4106,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/clientlib-dependencies.min.js"
+  },
+  {
+    "ms": 4106,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/clientlib-site.min.js"
+  },
+  {
+    "ms": 4113,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/clientlibs/granite/jquery.min.js"
+  },
+  {
+    "ms": 4113,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/formscustomfunctions.min.js"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.min.js"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.min.js"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/clientlib-base.min.js"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/fd/af/runtime/clientlibs/toggles.min.js"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/fd/af/runtime/clientlibs/rum.min.js"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/clientlibs/granite/dompurify.min.js"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/core/fd/components/form/accordion/v1/accordion/clientlibs/commons.min.js"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/core/fd/components/form/wizard/v1/wizard/clientlibs/commons.min.js"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/custom-forms-components-runtime-all.min.js"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer/panelcontainer/image.img.jpg/1760730295869.jpg"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer/panelcontainer/image_807924043.img.jpg/1760730280752.jpg"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer/panelcontainer/image_1942543603.img.jpg/1760730265930.jpg"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image.img.jpg/1760731446390.jpg"
+  },
+  {
+    "ms": 4114,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image_1758422051.img.jpg/1760732087260.jpg"
+  },
+  {
+    "ms": 4115,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image_428564861.img.jpg/1760731512911.jpg"
+  },
+  {
+    "ms": 4115,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image.img.jpg/1760732076992.jpg"
+  },
+  {
+    "ms": 4115,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image_647152741.img.jpg/1760733030761.jpg"
+  },
+  {
+    "ms": 4115,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image_1041179033.img.jpg/1760733051093.jpg"
+  },
+  {
+    "ms": 4115,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image.img.jpg/1760732147480.jpg"
+  },
+  {
+    "ms": 4115,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image_931067732.img.jpg/1760732133201.jpg"
+  },
+  {
+    "ms": 4115,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image_1803125799.img.jpg/1760732116554.jpg"
+  },
+  {
+    "ms": 4115,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/abbviecloud/content/dam/abbviecloudforms/recaptcha-v3-logo.png"
+  },
+  {
+    "ms": 4115,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-uc-prospect-registration-form/jcr:content/guideContainer/panelcontainer_339307322/panelcontainer/image.img.jpg/1759690533345.jpg"
+  },
+  {
+    "ms": 4115,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_757227424/image.img.jpg/1758906619496.jpg"
+  },
+  {
+    "ms": 4115,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_757227424/image_807924043.img.jpg/1758906642691.jpg"
+  },
+  {
+    "ms": 4115,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_757227424/image_1942543603.img.jpg/1758906661825.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_45976/panelcontainer_1575813322/image.img.jpg/1758906687209.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_45976/panelcontainer_1575813322/image_1758422051.img.jpg/1758906717514.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_45976/panelcontainer_1575813322/image_428564861.img.jpg/1758906737117.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_95025/panelcontainer_1590175139/image.img.jpg/1758906758448.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_95025/panelcontainer_1590175139/image_647152741.img.jpg/1758906828958.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_95025/panelcontainer_1590175139/image_1041179033.img.jpg/1760095540705.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_10009/panelcontainer_1123204371/image.img.jpg/1758906871019.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_10009/panelcontainer_1123204371/image_931067732.img.jpg/1758906887478.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_10009/panelcontainer_1123204371/image_1803125799.img.jpg/1758906907475.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-dsa-registration-adolescentalt/jcr:content/guideContainer/panelcontainer/panelcontainer/panelcontainer/image.img.jpg/1758779161541.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image.img.jpg/1759479872454.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_807924043.img.jpg/1759479886459.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_1942543603.img.jpg/1759479898107.jpg"
+  },
+  {
+    "ms": 4116,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image.img.jpg/1759479910398.jpg"
+  },
+  {
+    "ms": 4117,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image_1758422051.img.jpg/1759479921709.jpg"
+  },
+  {
+    "ms": 4117,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image_428564861.img.jpg/1759479930787.jpg"
+  },
+  {
+    "ms": 4117,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image.img.jpg/1759479943379.jpg"
+  },
+  {
+    "ms": 4117,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image_647152741.img.jpg/1759479953043.jpg"
+  },
+  {
+    "ms": 4117,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image_1041179033.img.jpg/1759479964716.jpg"
+  },
+  {
+    "ms": 4117,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image.img.jpg/1759479977606.jpg"
+  },
+  {
+    "ms": 4117,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image_931067732.img.jpg/1759479987217.jpg"
+  },
+  {
+    "ms": 4117,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image_1803125799.img.jpg/1759479997711.jpg"
+  },
+  {
+    "ms": 4117,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-dsa-registration/jcr:content/guideContainer/panelcontainer/image.img.jpg/1775552141679.jpg"
+  },
+  {
+    "ms": 4117,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image.img.jpg/1760262876344.jpg"
+  },
+  {
+    "ms": 4117,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_807924043.img.jpg/1760262913918.jpg"
+  },
+  {
+    "ms": 4117,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_1942543603.img.jpg/1760262945819.jpg"
+  },
+  {
+    "ms": 4117,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_45976/panelcontainer_922100638/image.img.jpg/1760262986124.jpg"
+  },
+  {
+    "ms": 4122,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_45976/panelcontainer_922100638/image_1758422051.img.jpg/1760262972397.jpg"
+  },
+  {
+    "ms": 4122,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_45976/panelcontainer_922100638/image_428564861.img.jpg/1760262962445.jpg"
+  },
+  {
+    "ms": 4122,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_95025/panelcontainer_2008524841/image.img.jpg/1760263005342.jpg"
+  },
+  {
+    "ms": 4122,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_95025/panelcontainer_2008524841/image_647152741.img.jpg/1760263018252.jpg"
+  },
+  {
+    "ms": 4122,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_95025/panelcontainer_2008524841/image_1041179033.img.jpg/1760263031337.jpg"
+  },
+  {
+    "ms": 4122,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_10009/panelcontainer_879847755/image.img.jpg/1760263053513.jpg"
+  },
+  {
+    "ms": 4122,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_10009/panelcontainer_879847755/image_931067732.img.jpg/1760263066608.jpg"
+  },
+  {
+    "ms": 4122,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_10009/panelcontainer_879847755/image_1803125799.img.jpg/1760263098110.jpg"
+  },
+  {
+    "ms": 4122,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-dsa-registration/jcr:content/guideContainer/panelcontainer_1674193997/image.img.jpg/1775482118389.jpg"
+  },
+  {
+    "ms": 4122,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_1645394843/image.img.jpg/1760094661066.jpg"
+  },
+  {
+    "ms": 4122,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_1645394843/image_807924043.img.jpg/1760094729101.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_1645394843/image_1942543603.img.jpg/1760094752937.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_1061664100/image.img.jpg/1760095080773.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_1061664100/image_1758422051.img.jpg/1760095122256.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_1061664100/image_428564861.img.jpg/1760095136558.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_1147486561/image.img.jpg/1760095314313.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_1147486561/image_647152741.img.jpg/1760095330456.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_1147486561/image_1041179033.img.jpg/1760095346602.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_354179609/image.img.jpg/1760095437316.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_354179609/image_931067732.img.jpg/1760095449201.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_354179609/image_1803125799.img.jpg/1760095461704.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image.img.jpg/1760364295514.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_807924043.img.jpg/1760364311402.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_1942543603.img.jpg/1760364327678.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_1295982367/image.img.jpg/1760364823500.jpg"
+  },
+  {
+    "ms": 4123,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_1295982367/image_1758422051.img.jpg/1760364837003.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_1295982367/image_428564861.img.jpg/1760364853692.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_1303344063/image.img.jpg/1760368394698.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_1303344063/image_647152741.img.jpg/1760368408352.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_1303344063/image_1041179033.img.jpg/1760368427172.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1386816747/image.img.jpg/1760368639031.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1386816747/image_931067732.img.jpg/1760368654165.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1386816747/image_1803125799.img.jpg/1760368667167.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_906125650/image.img.jpg/1760356328793.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_906125650/image_1758422051_cop.img.jpg/1760356343951.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_906125650/image_1942543603.img.jpg/1760356360162.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_721664544/image.img.jpg/1760356455556.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_721664544/image_1758422051.img.jpg/1760356431336.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_721664544/image_428564861.img.jpg/1760356443720.jpg"
+  },
+  {
+    "ms": 4124,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_457747717/image.img.jpg/1760356481096.jpg"
+  },
+  {
+    "ms": 4125,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_457747717/image_647152741.img.jpg/1760356495224.jpg"
+  },
+  {
+    "ms": 4125,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_457747717/image_1041179033.img.jpg/1760356515893.jpg"
+  },
+  {
+    "ms": 4125,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1060424881/image.img.jpg/1760356536867.jpg"
+  },
+  {
+    "ms": 4125,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1060424881/image_931067732.img.jpg/1760356550752.jpg"
+  },
+  {
+    "ms": 4125,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1060424881/image_1803125799.img.jpg/1760356562566.jpg"
+  },
+  {
+    "ms": 4125,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_2091000302/image.img.jpg/1760094784870.jpg"
+  },
+  {
+    "ms": 4125,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_2091000302/image_807924043.img.jpg/1760094812254.jpg"
+  },
+  {
+    "ms": 4125,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_2091000302/image_1942543603.img.jpg/1760262937474.jpg"
+  },
+  {
+    "ms": 4125,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_384725722/image.img.jpg/1760095121632.jpg"
+  },
+  {
+    "ms": 4125,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_384725722/image_1758422051.img.jpg/1760262902869.jpg"
+  },
+  {
+    "ms": 4125,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_384725722/image_428564861.img.jpg/1760095186728.jpg"
+  },
+  {
+    "ms": 4126,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_2112675337/image.img.jpg/1760095491652.jpg"
+  },
+  {
+    "ms": 4126,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_2112675337/image_647152741.img.jpg/1760095517794.jpg"
+  },
+  {
+    "ms": 4126,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_2112675337/image_1041179033.img.jpg/1760095555308.jpg"
+  },
+  {
+    "ms": 4126,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1507895560/image.img.jpg/1760095799822.jpg"
+  },
+  {
+    "ms": 4126,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1507895560/image_931067732.img.jpg/1760095849742.jpg"
+  },
+  {
+    "ms": 4126,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1507895560/image_1803125799.img.jpg/1760095875426.jpg"
+  },
+  {
+    "ms": 4126,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer/panelcontainer/image.img.jpg/1760730079526.jpg"
+  },
+  {
+    "ms": 4126,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer/panelcontainer/image_807924043.img.jpg/1760730001843.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer/panelcontainer/image_1942543603.img.jpg/1760730093829.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image.img.jpg/1760731682045.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image_1758422051.img.jpg/1760732469895.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image_428564861.img.jpg/1760731700160.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image.img.jpg/1760732542887.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image_647152741.img.jpg/1760732567676.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image_1041179033.img.jpg/1760732591622.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image.img.jpg/1760732285638.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image_931067732.img.jpg/1760732299411.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image_1803125799.img.jpg/1760732312298.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-dsa-registration/jcr:content/guideContainer/panelcontainer_33930/panelcontainer/image.img.jpg/1760602354906.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image.img.jpg/1761375438945.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_807924043.img.jpg/1761375496465.jpg"
+  },
+  {
+    "ms": 4127,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_1942543603.img.jpg/1761374199592.jpg"
+  },
+  {
+    "ms": 4128,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_823495867/image.img.jpg/1761374439026.jpg"
+  },
+  {
+    "ms": 4128,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_823495867/image_1758422051.img.jpg/1761374497894.jpg"
+  },
+  {
+    "ms": 4128,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_823495867/image_428564861.img.jpg/1761374529305.jpg"
+  },
+  {
+    "ms": 4128,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_2008362956/image_copy.img.jpg/1761375718531.jpg"
+  },
+  {
+    "ms": 4128,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_2008362956/image_807924043_copy.img.jpg/1761374685376.jpg"
+  },
+  {
+    "ms": 4128,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_2008362956/image_1041179033.img.jpg/1761374723611.jpg"
+  },
+  {
+    "ms": 4128,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_96009629/image.img.jpg/1761374762028.jpg"
+  },
+  {
+    "ms": 4128,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_96009629/image_931067732.img.jpg/1761374818859.jpg"
+  },
+  {
+    "ms": 4128,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_96009629/image_1803125799.img.jpg/1761374865028.jpg"
+  },
+  {
+    "ms": 4449,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/clientlib-site.min.css",
+    "status": 200
+  },
+  {
+    "ms": 4462,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/clientlib-base.min.css",
+    "status": 200
+  },
+  {
+    "ms": 4487,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/custom-forms-components-runtime-all.min.css",
+    "status": 200
+  },
+  {
+    "ms": 4488,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/clientlib-dependencies.min.css",
+    "status": 200
+  },
+  {
+    "ms": 4787,
+    "kind": "failed",
+    "url": "http://rinvoq99.p.cwcm-admp.com/ruxitagentjs_ica7nvfqrux_10343260715123811.js",
+    "failure": "mixed-content"
+  },
+  {
+    "ms": 4810,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/clientlib-dependencies.min.js",
+    "status": 200
+  },
+  {
+    "ms": 4813,
+    "kind": "failed",
+    "url": "https://rinvoq99.p.cwcm-admp.com/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js",
+    "failure": "net::ERR_ABORTED"
+  },
+  {
+    "ms": 5178,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/clientlibs/granite/jquery.min.js",
+    "status": 403
+  },
+  {
+    "ms": 5178,
+    "kind": "failed",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/clientlibs/granite/jquery.min.js",
+    "failure": "net::ERR_ABORTED"
+  },
+  {
+    "ms": 5178,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/clientlib-site.min.js",
+    "status": 200
+  },
+  {
+    "ms": 5248,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/formscustomfunctions.min.js",
+    "status": 200
+  },
+  {
+    "ms": 5506,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.min.js",
+    "status": 200
+  },
+  {
+    "ms": 5507,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.min.js",
+    "status": 200
+  },
+  {
+    "ms": 5511,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/libs/granite/csrf/token.json"
+  },
+  {
+    "ms": 5664,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/fd/af/runtime/clientlibs/toggles.min.js",
+    "status": 200
+  },
+  {
+    "ms": 5664,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/clientlib-base.min.js",
+    "status": 200
+  },
+  {
+    "ms": 5838,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/fd/af/runtime/clientlibs/rum.min.js",
+    "status": 200
+  },
+  {
+    "ms": 5843,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/clientlibs/granite/dompurify.min.js",
+    "status": 200
+  },
+  {
+    "ms": 5869,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/libs/granite/csrf/token.json",
+    "status": 200
+  },
+  {
+    "ms": 5924,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/core/fd/components/form/accordion/v1/accordion/clientlibs/commons.min.js",
+    "status": 200
+  },
+  {
+    "ms": 5955,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/core/fd/components/form/wizard/v1/wizard/clientlibs/commons.min.js",
+    "status": 200
+  },
+  {
+    "ms": 6025,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/abbviecloudforms/clientlibs/custom-forms-components-runtime-all.min.js",
+    "status": 200
+  },
+  {
+    "ms": 6042,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/select-your-indication-form/jcr:content/guideContainer.model.en.json"
+  },
+  {
+    "ms": 6770,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer/panelcontainer/image_1942543603.img.jpg/1760730265930.jpg",
+    "status": 200
+  },
+  {
+    "ms": 6771,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image_1758422051.img.jpg/1760732087260.jpg",
+    "status": 200
+  },
+  {
+    "ms": 6774,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer/panelcontainer/image_807924043.img.jpg/1760730280752.jpg",
+    "status": 200
+  },
+  {
+    "ms": 6788,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer/panelcontainer/image.img.jpg/1760730295869.jpg",
+    "status": 200
+  },
+  {
+    "ms": 6837,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image.img.jpg/1760731446390.jpg",
+    "status": 200
+  },
+  {
+    "ms": 6899,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image.img.jpg/1760732076992.jpg",
+    "status": 200
+  },
+  {
+    "ms": 6900,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image_647152741.img.jpg/1760733030761.jpg",
+    "status": 200
+  },
+  {
+    "ms": 6919,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image_428564861.img.jpg/1760731512911.jpg",
+    "status": 200
+  },
+  {
+    "ms": 7437,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/abbviecloud/content/dam/abbviecloudforms/recaptcha-v3-logo.png",
+    "status": 200
+  },
+  {
+    "ms": 7451,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image_1041179033.img.jpg/1760733051093.jpg",
+    "status": 200
+  },
+  {
+    "ms": 7562,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image.img.jpg/1760732147480.jpg",
+    "status": 200
+  },
+  {
+    "ms": 7586,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image_1803125799.img.jpg/1760732116554.jpg",
+    "status": 200
+  },
+  {
+    "ms": 7614,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-ulcerative-colitis-patient-registration-form/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image_931067732.img.jpg/1760732133201.jpg",
+    "status": 200
+  },
+  {
+    "ms": 8043,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_757227424/image.img.jpg/1758906619496.jpg",
+    "status": 200
+  },
+  {
+    "ms": 8053,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ulcerative-colitis/rinvoq-moderate-to-severe-uc-prospect-registration-form/jcr:content/guideContainer/panelcontainer_339307322/panelcontainer/image.img.jpg/1759690533345.jpg",
+    "status": 200
+  },
+  {
+    "ms": 8205,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_757227424/image_1942543603.img.jpg/1758906661825.jpg",
+    "status": 200
+  },
+  {
+    "ms": 8206,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_757227424/image_807924043.img.jpg/1758906642691.jpg",
+    "status": 200
+  },
+  {
+    "ms": 8225,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_45976/panelcontainer_1575813322/image.img.jpg/1758906687209.jpg",
+    "status": 200
+  },
+  {
+    "ms": 8594,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_45976/panelcontainer_1575813322/image_1758422051.img.jpg/1758906717514.jpg",
+    "status": 200
+  },
+  {
+    "ms": 8647,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_45976/panelcontainer_1575813322/image_428564861.img.jpg/1758906737117.jpg",
+    "status": 200
+  },
+  {
+    "ms": 8779,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_95025/panelcontainer_1590175139/image.img.jpg/1758906758448.jpg",
+    "status": 200
+  },
+  {
+    "ms": 8818,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_95025/panelcontainer_1590175139/image_1041179033.img.jpg/1760095540705.jpg",
+    "status": 200
+  },
+  {
+    "ms": 8833,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_95025/panelcontainer_1590175139/image_647152741.img.jpg/1758906828958.jpg",
+    "status": 200
+  },
+  {
+    "ms": 9147,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_10009/panelcontainer_1123204371/image.img.jpg/1758906871019.jpg",
+    "status": 200
+  },
+  {
+    "ms": 9196,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_10009/panelcontainer_1123204371/image_931067732.img.jpg/1758906887478.jpg",
+    "status": 200
+  },
+  {
+    "ms": 9352,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-patient-registration-adolescent/jcr:content/guideContainer/panelcontainer/panelcontainer_10009/panelcontainer_1123204371/image_1803125799.img.jpg/1758906907475.jpg",
+    "status": 200
+  },
+  {
+    "ms": 9376,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image.img.jpg/1759479872454.jpg",
+    "status": 200
+  },
+  {
+    "ms": 9417,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ad-atopic-dermatitis/ad-dsa-registration-adolescentalt/jcr:content/guideContainer/panelcontainer/panelcontainer/panelcontainer/image.img.jpg/1758779161541.jpg",
+    "status": 200
+  },
+  {
+    "ms": 9679,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_807924043.img.jpg/1759479886459.jpg",
+    "status": 200
+  },
+  {
+    "ms": 9759,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_1942543603.img.jpg/1759479898107.jpg",
+    "status": 200
+  },
+  {
+    "ms": 9922,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image.img.jpg/1759479910398.jpg",
+    "status": 200
+  },
+  {
+    "ms": 9936,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image_1758422051.img.jpg/1759479921709.jpg",
+    "status": 200
+  },
+  {
+    "ms": 9962,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image_428564861.img.jpg/1759479930787.jpg",
+    "status": 200
+  },
+  {
+    "ms": 10241,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image.img.jpg/1759479943379.jpg",
+    "status": 200
+  },
+  {
+    "ms": 10322,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image_647152741.img.jpg/1759479953043.jpg",
+    "status": 200
+  },
+  {
+    "ms": 10459,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image_1041179033.img.jpg/1759479964716.jpg",
+    "status": 200
+  },
+  {
+    "ms": 10494,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image.img.jpg/1759479977606.jpg",
+    "status": 200
+  },
+  {
+    "ms": 10500,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image_931067732.img.jpg/1759479987217.jpg",
+    "status": 200
+  },
+  {
+    "ms": 10789,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image_1803125799.img.jpg/1759479997711.jpg",
+    "status": 200
+  },
+  {
+    "ms": 10890,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/rheumatoid-arthritis/ra-dsa-registration/jcr:content/guideContainer/panelcontainer/image.img.jpg/1775552141679.jpg",
+    "status": 200
+  },
+  {
+    "ms": 10994,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image.img.jpg/1760262876344.jpg",
+    "status": 200
+  },
+  {
+    "ms": 11046,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_807924043.img.jpg/1760262913918.jpg",
+    "status": 200
+  },
+  {
+    "ms": 11061,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_1942543603.img.jpg/1760262945819.jpg",
+    "status": 200
+  },
+  {
+    "ms": 11340,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_45976/panelcontainer_922100638/image.img.jpg/1760262986124.jpg",
+    "status": 200
+  },
+  {
+    "ms": 11489,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_45976/panelcontainer_922100638/image_1758422051.img.jpg/1760262972397.jpg",
+    "status": 200
+  },
+  {
+    "ms": 11587,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_45976/panelcontainer_922100638/image_428564861.img.jpg/1760262962445.jpg",
+    "status": 200
+  },
+  {
+    "ms": 11643,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_95025/panelcontainer_2008524841/image.img.jpg/1760263005342.jpg",
+    "status": 200
+  },
+  {
+    "ms": 11644,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_95025/panelcontainer_2008524841/image_647152741.img.jpg/1760263018252.jpg",
+    "status": 200
+  },
+  {
+    "ms": 11951,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_95025/panelcontainer_2008524841/image_1041179033.img.jpg/1760263031337.jpg",
+    "status": 200
+  },
+  {
+    "ms": 12080,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_10009/panelcontainer_879847755/image.img.jpg/1760263053513.jpg",
+    "status": 200
+  },
+  {
+    "ms": 12127,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_10009/panelcontainer_879847755/image_931067732.img.jpg/1760263066608.jpg",
+    "status": 200
+  },
+  {
+    "ms": 12214,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_10009/panelcontainer_879847755/image_1803125799.img.jpg/1760263098110.jpg",
+    "status": 200
+  },
+  {
+    "ms": 12252,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/psoriatic-arthritis/psa-dsa-registration/jcr:content/guideContainer/panelcontainer_1674193997/image.img.jpg/1775482118389.jpg",
+    "status": 200
+  },
+  {
+    "ms": 12482,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_1645394843/image.img.jpg/1760094661066.jpg",
+    "status": 200
+  },
+  {
+    "ms": 12643,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_1645394843/image_807924043.img.jpg/1760094729101.jpg",
+    "status": 200
+  },
+  {
+    "ms": 12667,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_1645394843/image_1942543603.img.jpg/1760094752937.jpg",
+    "status": 200
+  },
+  {
+    "ms": 12763,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_1061664100/image.img.jpg/1760095080773.jpg",
+    "status": 200
+  },
+  {
+    "ms": 12806,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_1061664100/image_1758422051.img.jpg/1760095122256.jpg",
+    "status": 200
+  },
+  {
+    "ms": 13033,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_1061664100/image_428564861.img.jpg/1760095136558.jpg",
+    "status": 200
+  },
+  {
+    "ms": 13173,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_1147486561/image.img.jpg/1760095314313.jpg",
+    "status": 200
+  },
+  {
+    "ms": 13290,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_1147486561/image_647152741.img.jpg/1760095330456.jpg",
+    "status": 200
+  },
+  {
+    "ms": 13353,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_1147486561/image_1041179033.img.jpg/1760095346602.jpg",
+    "status": 200
+  },
+  {
+    "ms": 13362,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_354179609/image.img.jpg/1760095437316.jpg",
+    "status": 200
+  },
+  {
+    "ms": 13599,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_354179609/image_931067732.img.jpg/1760095449201.jpg",
+    "status": 200
+  },
+  {
+    "ms": 13687,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/ankylosing-spondylitis/as-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_354179609/image_1803125799.img.jpg/1760095461704.jpg",
+    "status": 200
+  },
+  {
+    "ms": 13852,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image.img.jpg/1760364295514.jpg",
+    "status": 200
+  },
+  {
+    "ms": 13880,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_807924043.img.jpg/1760364311402.jpg",
+    "status": 200
+  },
+  {
+    "ms": 13904,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_1942543603.img.jpg/1760364327678.jpg",
+    "status": 200
+  },
+  {
+    "ms": 14149,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_1295982367/image.img.jpg/1760364823500.jpg",
+    "status": 200
+  },
+  {
+    "ms": 14225,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_1295982367/image_1758422051.img.jpg/1760364837003.jpg",
+    "status": 200
+  },
+  {
+    "ms": 14393,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_1295982367/image_428564861.img.jpg/1760364853692.jpg",
+    "status": 200
+  },
+  {
+    "ms": 14500,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_1303344063/image.img.jpg/1760368394698.jpg",
+    "status": 200
+  },
+  {
+    "ms": 14500,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_1303344063/image_647152741.img.jpg/1760368408352.jpg",
+    "status": 200
+  },
+  {
+    "ms": 14689,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_1303344063/image_1041179033.img.jpg/1760368427172.jpg",
+    "status": 200
+  },
+  {
+    "ms": 14780,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1386816747/image.img.jpg/1760368639031.jpg",
+    "status": 200
+  },
+  {
+    "ms": 14912,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1386816747/image_931067732.img.jpg/1760368654165.jpg",
+    "status": 200
+  },
+  {
+    "ms": 15046,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/non-radiographic-axial-spondyloarthritis/nr-axspa-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1386816747/image_1803125799.img.jpg/1760368667167.jpg",
+    "status": 200
+  },
+  {
+    "ms": 15085,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_906125650/image.img.jpg/1760356328793.jpg",
+    "status": 200
+  },
+  {
+    "ms": 15219,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_906125650/image_1758422051_cop.img.jpg/1760356343951.jpg",
+    "status": 200
+  },
+  {
+    "ms": 15347,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_906125650/image_1942543603.img.jpg/1760356360162.jpg",
+    "status": 200
+  },
+  {
+    "ms": 15423,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_721664544/image.img.jpg/1760356455556.jpg",
+    "status": 200
+  },
+  {
+    "ms": 15621,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_721664544/image_1758422051.img.jpg/1760356431336.jpg",
+    "status": 200
+  },
+  {
+    "ms": 15622,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_721664544/image_428564861.img.jpg/1760356443720.jpg",
+    "status": 200
+  },
+  {
+    "ms": 15765,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_457747717/image.img.jpg/1760356481096.jpg",
+    "status": 200
+  },
+  {
+    "ms": 15898,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_457747717/image_647152741.img.jpg/1760356495224.jpg",
+    "status": 200
+  },
+  {
+    "ms": 15995,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_457747717/image_1041179033.img.jpg/1760356515893.jpg",
+    "status": 200
+  },
+  {
+    "ms": 16169,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1060424881/image_931067732.img.jpg/1760356550752.jpg",
+    "status": 200
+  },
+  {
+    "ms": 16182,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1060424881/image.img.jpg/1760356536867.jpg",
+    "status": 200
+  },
+  {
+    "ms": 16305,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-polyarticular-arthritis/jia-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1060424881/image_1803125799.img.jpg/1760356562566.jpg",
+    "status": 200
+  },
+  {
+    "ms": 16437,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_2091000302/image.img.jpg/1760094784870.jpg",
+    "status": 200
+  },
+  {
+    "ms": 16538,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_2091000302/image_807924043.img.jpg/1760094812254.jpg",
+    "status": 200
+  },
+  {
+    "ms": 16724,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer_2091000302/image_1942543603.img.jpg/1760262937474.jpg",
+    "status": 200
+  },
+  {
+    "ms": 16745,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_384725722/image.img.jpg/1760095121632.jpg",
+    "status": 200
+  },
+  {
+    "ms": 16837,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_384725722/image_1758422051.img.jpg/1760262902869.jpg",
+    "status": 200
+  },
+  {
+    "ms": 16970,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_384725722/image_428564861.img.jpg/1760095186728.jpg",
+    "status": 200
+  },
+  {
+    "ms": 17081,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_2112675337/image.img.jpg/1760095491652.jpg",
+    "status": 200
+  },
+  {
+    "ms": 17253,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_2112675337/image_1041179033.img.jpg/1760095555308.jpg",
+    "status": 200
+  },
+  {
+    "ms": 17284,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_2112675337/image_647152741.img.jpg/1760095517794.jpg",
+    "status": 200
+  },
+  {
+    "ms": 17371,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1507895560/image.img.jpg/1760095799822.jpg",
+    "status": 200
+  },
+  {
+    "ms": 17564,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1507895560/image_931067732.img.jpg/1760095849742.jpg",
+    "status": 200
+  },
+  {
+    "ms": 17629,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/active-juvenile-psoriatic-arthritis/jpsa-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_1507895560/image_1803125799.img.jpg/1760095875426.jpg",
+    "status": 200
+  },
+  {
+    "ms": 17785,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer/panelcontainer/image.img.jpg/1760730079526.jpg",
+    "status": 200
+  },
+  {
+    "ms": 17792,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer/panelcontainer/image_807924043.img.jpg/1760730001843.jpg",
+    "status": 200
+  },
+  {
+    "ms": 17901,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer/panelcontainer/image_1942543603.img.jpg/1760730093829.jpg",
+    "status": 200
+  },
+  {
+    "ms": 18117,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image.img.jpg/1760731682045.jpg",
+    "status": 200
+  },
+  {
+    "ms": 18171,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image_1758422051.img.jpg/1760732469895.jpg",
+    "status": 200
+  },
+  {
+    "ms": 18322,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_95192292/image_428564861.img.jpg/1760731700160.jpg",
+    "status": 200
+  },
+  {
+    "ms": 18346,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image.img.jpg/1760732542887.jpg",
+    "status": 200
+  },
+  {
+    "ms": 18423,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image_647152741.img.jpg/1760732567676.jpg",
+    "status": 200
+  },
+  {
+    "ms": 18697,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_37621/image_1041179033.img.jpg/1760732591622.jpg",
+    "status": 200
+  },
+  {
+    "ms": 18736,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image.img.jpg/1760732285638.jpg",
+    "status": 200
+  },
+  {
+    "ms": 18848,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image_931067732.img.jpg/1760732299411.jpg",
+    "status": 200
+  },
+  {
+    "ms": 18877,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-patient-registration-form/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_568251192/image_1803125799.img.jpg/1760732312298.jpg",
+    "status": 200
+  },
+  {
+    "ms": 18952,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/crohns-disease/cd-dsa-registration/jcr:content/guideContainer/panelcontainer_33930/panelcontainer/image.img.jpg/1760602354906.jpg",
+    "status": 200
+  },
+  {
+    "ms": 19211,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image.img.jpg/1761375438945.jpg",
+    "status": 200
+  },
+  {
+    "ms": 19284,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_807924043.img.jpg/1761375496465.jpg",
+    "status": 200
+  },
+  {
+    "ms": 19408,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer/panelcontainer/image_1942543603.img.jpg/1761374199592.jpg",
+    "status": 200
+  },
+  {
+    "ms": 19420,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_823495867/image.img.jpg/1761374439026.jpg",
+    "status": 200
+  },
+  {
+    "ms": 19484,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_823495867/image_1758422051.img.jpg/1761374497894.jpg",
+    "status": 200
+  },
+  {
+    "ms": 19870,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_45976685/panelcontainer_823495867/image_428564861.img.jpg/1761374529305.jpg",
+    "status": 200
+  },
+  {
+    "ms": 19872,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_2008362956/image_807924043_copy.img.jpg/1761374685376.jpg",
+    "status": 200
+  },
+  {
+    "ms": 19886,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_2008362956/image_1041179033.img.jpg/1761374723611.jpg",
+    "status": 200
+  },
+  {
+    "ms": 19936,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_950256980/panelcontainer_2008362956/image_copy.img.jpg/1761375718531.jpg",
+    "status": 200
+  },
+  {
+    "ms": 19943,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_96009629/image.img.jpg/1761374762028.jpg",
+    "status": 200
+  },
+  {
+    "ms": 19960,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_96009629/image_931067732.img.jpg/1761374818859.jpg",
+    "status": 200
+  },
+  {
+    "ms": 20023,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/gca/gca-patient-registration/jcr:content/guideContainer/panelcontainer_100094362/panelcontainer_96009629/image_1803125799.img.jpg/1761374865028.jpg",
+    "status": 200
+  },
+  {
+    "ms": 22495,
+    "kind": "state",
+    "state": "complete:undefined:0"
+  },
+  {
+    "ms": 28203,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/forms/af/admp/immunology/forms/brands/upa/indication-selector/select-your-indication-form/jcr:content/guideContainer.model.en.json",
+    "status": 200
+  },
+  {
+    "ms": 32454,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/core/fd/af-clientlibs/core-forms-components-runtime-all/resources/i18n/en.json"
+  },
+  {
+    "ms": 32763,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/etc.clientlibs/core/fd/af-clientlibs/core-forms-components-runtime-all/resources/i18n/en.json",
+    "status": 200
+  },
+  {
+    "ms": 35081,
+    "kind": "request",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/dam/abbviecloudforms/recaptcha-v3-logo.png"
+  },
+  {
+    "ms": 35087,
+    "kind": "state",
+    "state": "interactive:object:1"
+  },
+  {
+    "ms": 35490,
+    "kind": "response",
+    "url": "https://rinvoq99.p.cwcm-admp.com/abbviecloud/content/dam/abbviecloudforms/recaptcha-v3-logo.png",
+    "status": 200
+  },
+  {
+    "ms": 38678,
+    "kind": "state",
+    "state": "complete:undefined:0"
+  },
+  {
+    "ms": 39693,
+    "kind": "state",
+    "state": "loading:undefined:0"
+  },
+  {
+    "ms": 40942,
+    "kind": "state",
+    "state": "complete:undefined:0"
+  },
+  {
+    "ms": 41093,
+    "kind": "state",
+    "state": "complete:undefined:0"
+  },
+  {
+    "ms": 42092,
+    "kind": "state",
+    "state": "complete:undefined:0"
+  },
+  {
+    "ms": 43639,
+    "kind": "failed",
+    "url": "https://www.google.com/ccm/collect",
+    "failure": "net::ERR_ABORTED"
+  },
+  {
+    "ms": 43639,
+    "kind": "failed",
+    "url": "https://www.google.com/ccm/collect",
+    "failure": "net::ERR_ABORTED"
+  },
+  {
+    "ms": 43868,
+    "kind": "failed",
+    "url": "https://ad.doubleclick.net/ccm/s/collect",
+    "failure": "net::ERR_ABORTED"
+  },
+  {
+    "ms": 44728,
+    "kind": "state",
+    "state": "loading:undefined:0"
+  },
+  {
+    "ms": 44832,
+    "kind": "failed",
+    "url": "https://d.turn.com/r/dd/id/L21rdC84MTYvY2lkLzE3NDkxMDE0NzUvdC8w/kv/CampaignID=2210C,Channel=website,Placement=0,MAD=0,Refchannel=direct,PageName=sign-up,Event=0,Se=default",
+    "failure": "net::ERR_BLOCKED_BY_ORB"
+  },
+  {
+    "ms": 46227,
+    "kind": "state",
+    "state": "interactive:undefined:0"
+  },
+  {
+    "ms": 46879,
+    "kind": "failed",
+    "url": "https://bm.adentifi.com/pixel/conv/ppt=9300;g=lp_pageview;gid=29946;ord=[uniqueid]",
+    "failure": "net::ERR_CERT_DATE_INVALID"
+  },
+  {
+    "ms": 48977,
+    "kind": "state",
+    "state": "complete:undefined:0"
+  }
+]
